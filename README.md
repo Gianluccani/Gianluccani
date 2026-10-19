@@ -1,6 +1,7 @@
 # 🦝 Hi, I'm Gianlucca aka JoyGlitch:
-Computer Science student finish my degree, enthusiastic about cybersecurity.<br/><br>Here you will find my writeups from ctfs that I do, also my learning journey and some projects that I will work on.<br/><br>Trying to learn everyday about red team and blue team, in order to sharp my knowledge.<br/><br>breaking things, fixing them and taking a deep look is the way to learn.<br>
+Computer Science student finish my degree, enthusiastic about cybersecurity. Here you will find my writeups from ctfs that I do, also my learning journey and some projects that I will work on. Trying to learn everyday about red team and blue team, in order to sharp my knowledge. breaking things, fixing them and taking a deep look is the way to learn.
 
+Estudiante de Ingeniería en informática, dedicado a la ciberseguridad. Aqui van a encontrar writeups que hago de ctfs, mi proceso de aprendizaje a medida que pasa el tiempo y proyectos en los cuales dedico mi tiempo. Busco aprender algo nuevo cada dia, sea blue team o red team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianlucca-cipriani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gianluccaciprianitrabajo@gmail.com) 
