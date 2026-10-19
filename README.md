@@ -12,7 +12,12 @@ Computer Science student finish my degree, enthusiastic about cybersecurity.<br/
 ![](https://streak-stats.demolab.com/?user=Gianluccani&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gianluccani&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gianluccani&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
+## 🏴‍☠️ Writeups
+
+## 📚 Learning
+
+## 💻 Project I'm working on:
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
