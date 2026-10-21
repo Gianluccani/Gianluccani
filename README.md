@@ -17,8 +17,8 @@ Estudiante de Ingeniería en informática, dedicado a la ciberseguridad. Aqui va
 - [Dockerlabs](https://github.com/Gianluccani/Writeups/tree/main/Dockerlabs)
 - [HackTheBox](https://github.com/Gianluccani/Writeups/tree/main/HTB)
 - [TryHackMe](https://github.com/Gianluccani/Writeups/tree/main/THM)
-- [PicoCTF](https://github.com/Gianluccani/Writeups/tree/main/picoctf)
-- [OverTheWire](https://github.com/Gianluccani/Writeups/tree/main/overthewire)
+- [PicoCTF](https://github.com/Gianluccani/Writeups/tree/main/PicoCTF)
+- [OverTheWire](https://github.com/Gianluccani/Writeups/tree/main/OverTheWire)
 
 
 ## 📚 Learning
