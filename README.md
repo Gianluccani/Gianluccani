@@ -14,6 +14,7 @@ Estudiante de Ingeniería en informática, dedicado a la ciberseguridad. Aqui va
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gianluccani&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏴‍☠️ Writeups
+![](https://github.com/Gianluccani/Writeups)<br/>
 
 ## 📚 Learning
 
